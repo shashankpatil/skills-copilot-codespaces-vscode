@@ -1,4 +1,4 @@
-// Create a Web Server
+// Create web server in comments.js
 const express = require('express');
 const app = express();
 
